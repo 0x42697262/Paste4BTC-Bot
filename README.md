@@ -1,4 +1,4 @@
-# Paste4BTC-Bot
+# Paste4BTC-Bot (Experimental)
 
 A simple Paste4BTC bot. May require some updates and changes. This seriously needs to be coded properly.
 
