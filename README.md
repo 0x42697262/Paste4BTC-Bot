@@ -4,3 +4,8 @@ A simple Paste4BTC bot. May require some updates and changes. This seriously nee
 
 This script requires Beautiful Soup 4
 
+# Needs:
+* Add multiple links
+* Uses multiple proxy lists
+* Able to specify # of Threads
+* Maybe A GUI? I dunno
